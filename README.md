@@ -1,1 +1,1 @@
-# CRUD com JPA - Registro De Produtos
+# API REST - Gerenciamento De Produtos e Pedidos
